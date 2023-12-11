@@ -11,4 +11,4 @@ DSCI 552 - Machine Learning for Data Science (Summer 2023) | Graduate Level Cour
 | HW6      | [HW6](HW-6)         |
 | HW7      | [HW7](HW-7)         |
 | HW8      | [HW8](HW-8)         |
-| Project  | [Project](project) |
+| Project  | [Project](Final-Project) |

@@ -5,13 +5,10 @@ DSCI 552 - Machine Learning for Data Science (Summer 2023) | Graduate Level Cour
 
 | Homework | URL                |
 | -------- | ------------------ |
-| HW0      | [HW0](hw0)         |
-| HW1      | [HW1](hw1)         |
-| HW2      | [HW2](hw2)         |
-| HW3      | [HW3](hw3)         |
-| HW4      | [HW4](hw4)         |
-| HW5      | [HW5](hw5)         |
-| HW6      | [HW6](hw6)         |
-| HW7      | [HW7](hw7)         |
-| HW8      | [HW8](hw8)         |
+| HW2      | [HW2](HW-2)         |
+| HW3      | [HW3](HW-3)         |
+| HW4      | [HW4](HW-4)         |
+| HW6      | [HW6](HW-6)         |
+| HW7      | [HW7](HW-7)         |
+| HW8      | [HW8](HW-8)         |
 | Project  | [Project](project) |
